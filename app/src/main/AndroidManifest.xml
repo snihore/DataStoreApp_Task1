@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".TextDataActivity" />
-        <activity android:name=".ImageActivity"></activity>
+        <activity android:name=".ImageActivity" />
+        <activity android:name=".ViewImages"></activity>
     </application>
 
 </manifest>
